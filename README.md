@@ -10,4 +10,5 @@ Search: Users can search for candidates by name, party or assembly.
 Technologies Used
 
 1.JAVA 
+
 2.SQL
